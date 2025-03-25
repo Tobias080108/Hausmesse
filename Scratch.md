@@ -8,7 +8,7 @@
 
 ## Aufgabe
 
-Unter folgendem Link findest du einen Scratch Account, der zwei Projekte veröffentlicht hat.  
+Unter diesem [Link](https://scratch.mit.edu/users/skibididelulu/) findest du einen Scratch Account, der zwei Projekte veröffentlicht hat.  
 Remixe das Projekt `Aufgabe` und öffne es anschliessend auf deinem Account, damit du es bearbeiten kannst.  
 Du musst immer nur die Teile des Codes bearbeiten, die den Block `say "Movement" for 0.1 seconds` beinhalten. **Verändere nur diese Teile des Codes**!
 

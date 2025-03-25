@@ -46,6 +46,8 @@ Probiere nun alle Befehle in der folgenden Tabelle aus und sieh dir die Ergebnis
 |curl parrot.live|Zeigt einen tanzenden Papagei aus ASCII Zeichen, welcher die Farbe wechselt|
 |exit|Schliesst die Eingabeaufforderung|
 
+Falls du Hilfe brauchst bei einem Befehl, wende dich an den Betreuer des Postens.
+
 ## Taskmanager
 
 Öffne den Taskmanager mit der Tastenkombination Ctrl + Shift + Esc oder per Rechtsklick auf die Taskleiste -> Taskmanager.  
